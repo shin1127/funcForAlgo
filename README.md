@@ -31,10 +31,10 @@ READMEの中身が膨大になってしまうことを危惧して、得られ�
 
 ### Python
 - [その小数は整数と実質的に等価ですか？( 小数点以下がゼロなら整数とみなしたい )](py-thisFloatIsInt.md)
-- [リストの要素を順に取り出し、要素がなくなればループを終了する](ja-searchMin-MAX.md)
+- リストの要素を順に取り出し、要素がなくなればループを終了する
 
 ### Java
--  ArrayListの要素から最大値や最小値を求める
+-  [ArrayListの要素から最大値や最小値を求める](ja-searchMin-MAX.md)
 -  ArrayListの要素の和を求める
 -  ArrayListの要素の算術平均を求める
 
