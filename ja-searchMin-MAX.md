@@ -15,6 +15,7 @@
   ## ソースコード
   
   ```Java
+  
   // int型の配列の最大値を求める
     public int maxInt(ArrayList<Integer> list){
         int maxNumber = Integer.MIN_VALUE;
@@ -59,4 +60,4 @@
         return minNumber;
     }
     
-    ```
+```
