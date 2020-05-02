@@ -1,0 +1,19 @@
+div.feature {
+  display: inline-block;
+  width: 300px;
+
+  background-color: skyblue; /* 変更場所がわかりやすいように背景色をかえとく */
+}
+
+/* Featureのテキストだよ */
+div.featureText {
+  width: 200px;
+  background-color: white;
+  padding: 30px;
+  margin: auto;
+}
+
+/* Featureのタイトルだよ */
+div h3 {
+  text-align: center;
+}
