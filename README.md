@@ -43,6 +43,7 @@ READMEの中身が膨大になってしまうことを危惧して、得られ�
 -  [ArrayListの要素から最大値や最小値を求める](ja-searchMin-MAX.md)
 -  ArrayListの要素の和を求める
 -  ArrayListの要素の算術平均を求める
+-  [FizzBuzz](ja-FizzBuzz.md)
 
 ### JavaScript
 -  リストの要素を順に取り出し、要素がなくなればループを終了する
