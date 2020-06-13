@@ -1,3 +1,7 @@
+# %記号を使わずにFizzBuzzを実装する
+
+## 自分のソースコード
+
 ```JS
 function calc3a(n){
     n = String(n);
@@ -72,4 +76,17 @@ function fzbz(n){
 }
 
 fzbz(100);
+```
+
+## 他の解き方
+
+n > 0 を満たす限り、愚直に引き算し続ける  
+できなくなったら戻り値を返す
+```JS
+[...Array(101).keys()].slice(1).map(n=>{
+    let fizz = buzz = n;
+    while (fizz > 0) fizz -= 3;
+    while (buzz > 0) buzz -= 5;
+    return (fizz == 0 ? 'Fizz' : '') + (buzz == 0 ? 'Buzz' : '') || n
+});
 ```
