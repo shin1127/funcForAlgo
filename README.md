@@ -48,4 +48,5 @@ READMEの中身が膨大になってしまうことを危惧して、得られ�
 ### JavaScript
 -  リストの要素を順に取り出し、要素がなくなればループを終了する
 -  2つの分岐で済ませるFizzBuzz
--  [%を使わないFizzBuzz](js-FizzBuzzWithout%.md)
+-  [%を使わないFizzBuzz](js-FizzBuzzWithout%25.md)
+-  [平方根に最も近い自然数を探索する](js-searchSqrt.md)
