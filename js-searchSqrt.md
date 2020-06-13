@@ -39,3 +39,12 @@ while (rangeMax - rangeMin >= 1){
 console.log(rangeMin);
 
 ```
+
+## 他の簡単なやり方
+
+
+```JS
+
+const n = N ** 0.5
+
+```
